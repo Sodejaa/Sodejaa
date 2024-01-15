@@ -6,7 +6,7 @@ I'm an ICT student at the University of Turku, Finland. Feel free to explore my 
 
 🎓 Currently pursuing a degree in Information and Communication Technology, with a minor in LITO Basic Business Studies, I am dedicated to expanding my knowledge and skills in the tech world.
 
-🔍 Right now, I'm diving into the world of AI, specifically working on my bachelor's thesis related to machine learning. It's an exciting journey into cutting-edge technology!
+🔍 Right now, I'm diving into the world of AI, specifically learning to use llm's inside Docker containers with my own data.
   
 ✉️ Contact me at [soderstrom.jaani@gmail.com](mailto:soderstrom.jaani@gmail.com).
 
